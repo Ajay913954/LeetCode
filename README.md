@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ajay913954/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Ajay913954/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ajay913954/LeetCode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ajay913954/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ajay913954/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ajay913954/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Ajay913954/LeetCode/tree/master/0217-contains-duplicate) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ajay913954/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ajay913954/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/Ajay913954/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Ajay913954/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -69,5 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ajay913954/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ajay913954/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Ajay913954/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
