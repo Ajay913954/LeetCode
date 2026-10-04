@@ -3,8 +3,20 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var moveZeroes = function(nums) {
-    let nonZero = nums.filter(num => num !== 0);
-    let zeroCount = nums.length - nonZero.length;
+    let index = 0;
 
-    nums.splice(0, nums.length, ...nonZero, ...Array(zeroCount).fill(0));
+    //Non zero elements ko aage move karna hai 
+    for(let i=0; i<nums.length;i++){
+        if(nums[i] !== 0){
+            nums[index] = nums[i];
+            index++;
+        }
+    }
+
+    //remaining positions par zero fill karna hia
+
+    while (index<nums.length){
+        nums[index] =0;
+        index++;
+    }
 };
