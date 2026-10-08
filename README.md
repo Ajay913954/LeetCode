@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Ajay913954/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ajay913954/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ajay913954/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ajay913954/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay913954/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ajay913954/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ajay913954/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ajay913954/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Ajay913954/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ajay913954/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay913954/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ajay913954/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ajay913954/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ajay913954/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ajay913954/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Ajay913954/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Ajay913954/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay913954/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ajay913954/LeetCode/tree/master/0856-score-of-parentheses) |
