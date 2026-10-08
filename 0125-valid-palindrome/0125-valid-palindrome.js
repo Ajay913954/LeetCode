@@ -3,9 +3,32 @@
  * @return {boolean}
  */
 var isPalindrome = function(s) {
-    s = s.toLowerCase().replace(/[^a-z0-9]/g, "");
+    let left = 0;
+    let right = s.length - 1;
 
-    let reversed = s.split("").reverse().join("");
+    while (left < right) {
 
-    return s === reversed;
+        // Non-alphanumeric character skip karo
+        while (left < right && !isAlphaNumeric(s[left])) {
+            left++;
+        }
+
+        while (left < right && !isAlphaNumeric(s[right])) {
+            right--;
+        }
+
+        // Characters compare karo
+        if (s[left].toLowerCase() !== s[right].toLowerCase()) {
+            return false;
+        }
+
+        left++;
+        right--;
+    }
+
+    return true;
 };
+
+function isAlphaNumeric(char) {
+    return /^[a-zA-Z0-9]$/.test(char);
+}
