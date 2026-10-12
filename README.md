@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Ajay913954/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajay913954/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ajay913954/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajay913954/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ajay913954/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ajay913954/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ajay913954/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajay913954/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ajay913954/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ajay913954/LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ajay913954/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajay913954/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ajay913954/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ajay913954/LeetCode/tree/master/0268-missing-number) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajay913954/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
