@@ -18,10 +18,8 @@ var isIsomorphic = function(s, t) {
         if (mapTS.has(b) && mapTS.get(b) !== a) {
             return false;
         }
-
         mapST.set(a, b);
         mapTS.set(b, a);
     }
-
     return true;
 };
