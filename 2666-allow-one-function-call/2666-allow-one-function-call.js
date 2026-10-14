@@ -5,18 +5,16 @@
 var once = function(fn) {
     let called = false;
 
-    return function(...args) {
-
+    return function() {
         if (called) {
             return undefined;
         }
 
         called = true;
 
-        return fn(...args);
+        return fn.apply(this, arguments);
     };
 };
-
 /**
  * let fn = (a,b,c) => (a + b + c)
  * let onceFn = once(fn)
