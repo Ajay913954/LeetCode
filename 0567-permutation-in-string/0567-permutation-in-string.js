@@ -9,13 +9,11 @@ var checkInclusion = function(s1, s2) {
 
     let s1Count = new Array(26).fill(0);
     let windowCount = new Array(26).fill(0);
-
     // Count characters of s1
     for (let i = 0; i < s1.length; i++) {
         s1Count[s1.charCodeAt(i) - 97]++;
         windowCount[s2.charCodeAt(i) - 97]++;
     }
-
     // Check first window
     if (s1Count.join() === windowCount.join()) {
         return true;
