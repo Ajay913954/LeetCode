@@ -30,7 +30,6 @@ var minOperations = function(s) {
             max = s[i];
         }
     }
-
     // Step 3: One operation
     if (s[0] === min || s[n - 1] === max) {
         return 1;
