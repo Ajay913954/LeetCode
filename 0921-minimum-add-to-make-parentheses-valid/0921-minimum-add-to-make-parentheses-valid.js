@@ -1,22 +1,26 @@
+
 /**
  * @param {string} s
  * @return {number}
  */
 var minAddToMakeValid = function(s) {
-    let balance = 0;
-    let additions = 0;
+    let open = 0;
+    let count = 0;
 
-    for (let char of s) {
-        if (char === '(') {
-            balance++;
-        } else {
-            if (balance > 0) {
-                balance--;
-            } else {
-                additions++;
+    for (let i = 0; i < s.length; i++) {
+
+        if (s[i] === '(') {
+            open++;
+        } 
+        else {
+            if (open > 0) {
+                open--;
+            } 
+            else {
+                count++;
             }
         }
     }
 
-    return additions + balance;
+    return open + count;
 };
