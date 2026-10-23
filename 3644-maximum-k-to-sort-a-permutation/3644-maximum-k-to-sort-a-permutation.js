@@ -12,6 +12,5 @@ var sortPermutation = function(nums) {
             ans &= i;
         }
     }
-
     return ans === -1 ? 0 : ans;
 };
