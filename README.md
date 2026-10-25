@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajay913954/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ajay913954/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Ajay913954/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ajay913954/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ajay913954/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ajay913954/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Dynamic Programming
 |  |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ajay913954/LeetCode/tree/master/1254-number-of-closed-islands) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ajay913954/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
